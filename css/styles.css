@@ -76,7 +76,7 @@ p{
 .skill-row{
   width: 50%;
   margin: 100px auto;
-  text-align: left;
+  text-align: justify;
 }
 
 .intro{
@@ -87,7 +87,7 @@ p{
 .foot{
   color: #f2f2f2;
   font-family: 'Montserrat', sans-serif;
-  font-size: 0.3rem;
+  font-size: 0.5rem;
   padding: 10px 0;
 }
 
